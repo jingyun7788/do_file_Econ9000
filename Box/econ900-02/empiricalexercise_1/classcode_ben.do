@@ -1,6 +1,5 @@
 set more off
 clear all
-set maxvar 32000
 set seed 0
 
 //set environment variables
@@ -9,7 +8,7 @@ global storage: env storage
 
 //locations
 global data = "$storage/econ900-02/empiricalexercise_1"
-global code = "projects/econ900-20_empirical/empiricalexcercise_1"
+global code = "$projects/econ900-20_empirical/empiricalexcercise_1"
 
 //open data
 cd $data	
