@@ -50,3 +50,6 @@ global ystar
 reg $Y $x1 $x2star
 
 //three equivalent ways of getting the exact same beta2
+
+
+// today codes change
